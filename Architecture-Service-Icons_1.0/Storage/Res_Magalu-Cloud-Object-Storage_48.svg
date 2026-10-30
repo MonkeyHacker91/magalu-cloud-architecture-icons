@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img">
+  <title>Object Storage</title>
+  <rect width="64" height="64" rx="12" fill="#1A8754"/>
+  <g>
+    
+    <ellipse cx="32" cy="18" rx="16" ry="7" fill="#fff"/>
+    <path d="M16 18v10c0 3.9 7.2 7 16 7s16-3.1 16-7V18" fill="#fff" opacity=".92"/>
+    <path d="M16 28v10c0 3.9 7.2 7 16 7s16-3.1 16-7V28" fill="#fff" opacity=".78"/>
+    
+  </g>
+</svg>

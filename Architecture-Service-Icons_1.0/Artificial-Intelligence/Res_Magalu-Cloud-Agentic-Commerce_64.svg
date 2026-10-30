@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+  <title>Agentic Commerce</title>
+  <rect width="64" height="64" rx="12" fill="#8B5CFF"/>
+  <g>
+    
+    <circle cx="32" cy="24" r="10" fill="#fff"/>
+    <path d="M16 48c3.5-8 8.5-12 16-12s12.5 4 16 12" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M44 18l5-6M20 18l-5-6M32 14V8" stroke="#fff" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+    
+  </g>
+</svg>

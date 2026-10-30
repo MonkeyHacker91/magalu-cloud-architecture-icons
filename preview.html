@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Magalu Cloud Architecture Icons</title>
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --card: #fff;
+      --line: #e5e7eb;
+      --blue: #0086FF;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Segoe UI, system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+    }
+    header {
+      padding: 40px 24px 20px;
+      border-bottom: 1px solid var(--line);
+      background: #fff;
+    }
+    header h1 { margin: 0 0 8px; font-size: 28px; }
+    header p { margin: 0; color: var(--muted); max-width: 720px; line-height: 1.5; }
+    .badge {
+      display: inline-block;
+      margin-top: 14px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(0,134,255,.1);
+      color: var(--blue);
+      font-size: 12px;
+      font-weight: 700;
+    }
+    main { padding: 28px 24px 60px; max-width: 1200px; margin: 0 auto; }
+    h2 { margin: 28px 0 14px; font-size: 18px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 18px 14px 16px;
+      text-align: center;
+    }
+    .card img { display: block; margin: 0 auto 12px; }
+    .card h3 { margin: 0 0 4px; font-size: 13px; }
+    .card p { margin: 0 0 8px; color: var(--muted); font-size: 11px; }
+    .card code {
+      display: block;
+      font-size: 9.5px;
+      color: #64748b;
+      word-break: break-all;
+      line-height: 1.35;
+    }
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+      padding-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Magalu Cloud Architecture Icons</h1>
+    <p>Pack de ícones para diagramas de infraestrutura Magalu Cloud — linguagem visual alinhada aos AWS Architecture Icons (tile colorido + glifo branco).</p>
+    <span class="badge">v1.0.0 · MIT · 18 service icons</span>
+  </header>
+  <main>
+    <h2>Category icons</h2>
+    <div class="grid">
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Compute.svg" alt="Compute" width="72" height="72" />
+      <h3>Compute</h3>
+      <code>#0086FF</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Containers.svg" alt="Containers" width="72" height="72" />
+      <h3>Containers</h3>
+      <code>#2A67FB</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Networking.svg" alt="Networking" width="72" height="72" />
+      <h3>Networking</h3>
+      <code>#8C4FFF</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Storage.svg" alt="Storage" width="72" height="72" />
+      <h3>Storage</h3>
+      <code>#FF6A00</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Database.svg" alt="Database" width="72" height="72" />
+      <h3>Database</h3>
+      <code>#3B48CC</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Security-Identity.svg" alt="Security-Identity" width="72" height="72" />
+      <h3>Security-Identity</h3>
+      <code>#DD344C</code>
+    </article>
+    <article class="card cat">
+      <img src="Architecture-Category-Icons_1.0/Arch-Category_Artificial-Intelligence.svg" alt="Artificial-Intelligence" width="72" height="72" />
+      <h3>Artificial-Intelligence</h3>
+      <code>#D91CAC</code>
+    </article></div>
+    <h2>Service icons</h2>
+    <div class="grid">
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Virtual-Machine.svg" alt="Virtual Machine" width="64" height="64" />
+      <h3>Virtual Machine</h3>
+      <p>Compute</p>
+      <code>Res_Magalu-Cloud-Virtual-Machine</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Kubernetes.svg" alt="Kubernetes" width="64" height="64" />
+      <h3>Kubernetes</h3>
+      <p>Containers</p>
+      <code>Res_Magalu-Cloud-Kubernetes</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Container-Registry.svg" alt="Container Registry" width="64" height="64" />
+      <h3>Container Registry</h3>
+      <p>Containers</p>
+      <code>Res_Magalu-Cloud-Container-Registry</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-VPC.svg" alt="VPC" width="64" height="64" />
+      <h3>VPC</h3>
+      <p>Networking-Content-Delivery</p>
+      <code>Res_Magalu-Cloud-VPC</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Subnet.svg" alt="Subnet" width="64" height="64" />
+      <h3>Subnet</h3>
+      <p>Networking-Content-Delivery</p>
+      <code>Res_Magalu-Cloud-Subnet</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Load-Balancer.svg" alt="Load Balancer" width="64" height="64" />
+      <h3>Load Balancer</h3>
+      <p>Networking-Content-Delivery</p>
+      <code>Res_Magalu-Cloud-Load-Balancer</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Public-IP.svg" alt="Public IP" width="64" height="64" />
+      <h3>Public IP</h3>
+      <p>Networking-Content-Delivery</p>
+      <code>Res_Magalu-Cloud-Public-IP</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-NAT-Gateway.svg" alt="NAT Gateway" width="64" height="64" />
+      <h3>NAT Gateway</h3>
+      <p>Networking-Content-Delivery</p>
+      <code>Res_Magalu-Cloud-NAT-Gateway</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Block-Storage.svg" alt="Block Storage" width="64" height="64" />
+      <h3>Block Storage</h3>
+      <p>Storage</p>
+      <code>Res_Magalu-Cloud-Block-Storage</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Object-Storage.svg" alt="Object Storage" width="64" height="64" />
+      <h3>Object Storage</h3>
+      <p>Storage</p>
+      <code>Res_Magalu-Cloud-Object-Storage</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-DBaaS.svg" alt="DBaaS" width="64" height="64" />
+      <h3>DBaaS</h3>
+      <p>Database</p>
+      <code>Res_Magalu-Cloud-DBaaS</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-DBaaS-Replica.svg" alt="DBaaS Replica" width="64" height="64" />
+      <h3>DBaaS Replica</h3>
+      <p>Database</p>
+      <code>Res_Magalu-Cloud-DBaaS-Replica</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Security-Group.svg" alt="Security Group" width="64" height="64" />
+      <h3>Security Group</h3>
+      <p>Security-Identity-Compliance</p>
+      <code>Res_Magalu-Cloud-Security-Group</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-SSH-Key.svg" alt="SSH Key" width="64" height="64" />
+      <h3>SSH Key</h3>
+      <p>Security-Identity-Compliance</p>
+      <code>Res_Magalu-Cloud-SSH-Key</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-AI-Hub.svg" alt="AI Hub" width="64" height="64" />
+      <h3>AI Hub</h3>
+      <p>Artificial-Intelligence</p>
+      <code>Res_Magalu-Cloud-AI-Hub</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Agentic-Commerce.svg" alt="Agentic Commerce" width="64" height="64" />
+      <h3>Agentic Commerce</h3>
+      <p>Artificial-Intelligence</p>
+      <code>Res_Magalu-Cloud-Agentic-Commerce</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Accelerate.svg" alt="Accelerate" width="64" height="64" />
+      <h3>Accelerate</h3>
+      <p>General-Icons</p>
+      <code>Res_Magalu-Cloud-Accelerate</code>
+    </article>
+    <article class="card">
+      <img src="svg/Res_Magalu-Cloud-Logo-Mark.svg" alt="Logo Mark" width="64" height="64" />
+      <h3>Logo Mark</h3>
+      <p>General-Icons</p>
+      <code>Res_Magalu-Cloud-Logo-Mark</code>
+    </article></div>
+  </main>
+  <footer>Magalu Cloud Architecture Icons · use em docs, slides e no Magalu Infra Designer</footer>
+</body>
+</html>

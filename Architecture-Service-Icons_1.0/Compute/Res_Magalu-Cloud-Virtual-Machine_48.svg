@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img">
+  <title>Virtual Machine</title>
+  <rect width="64" height="64" rx="12" fill="#0086FF"/>
+  <g>
+    
+    <rect x="14" y="16" width="36" height="24" rx="3" fill="#fff"/>
+    <rect x="18" y="20" width="28" height="12" rx="1.5" fill="#0086FF" opacity=".28"/>
+    <path d="M22 24h8M22 28h14" stroke="#0086FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M28 40v5M36 40v5" stroke="#fff" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+    <path d="M24 45h16" stroke="#fff" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+    
+  </g>
+</svg>

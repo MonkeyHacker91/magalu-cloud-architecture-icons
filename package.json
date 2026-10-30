@@ -1,0 +1,42 @@
+{
+  "name": "@mgc/architecture-icons",
+  "version": "1.0.0",
+  "description": "Magalu Cloud Architecture Icons — SVG pack for infrastructure diagrams (AWS Architecture Icons style)",
+  "license": "MIT",
+  "author": "Magalu Cloud Architecture Icons contributors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeyHacker91/magalu-cloud-architecture-icons.git"
+  },
+  "homepage": "https://github.com/MonkeyHacker91/magalu-cloud-architecture-icons#readme",
+  "bugs": {
+    "url": "https://github.com/MonkeyHacker91/magalu-cloud-architecture-icons/issues"
+  },
+  "keywords": [
+    "magalu",
+    "magalu-cloud",
+    "mgc",
+    "architecture",
+    "icons",
+    "svg",
+    "diagram",
+    "terraform",
+    "cloud"
+  ],
+  "files": [
+    "Architecture-Service-Icons_1.0",
+    "Architecture-Category-Icons_1.0",
+    "svg",
+    "aliases.json",
+    "manifest.json",
+    "preview.html",
+    "LICENSE",
+    "README.md"
+  ],
+  "exports": {
+    "./svg/*": "./svg/*",
+    "./manifest.json": "./manifest.json",
+    "./aliases.json": "./aliases.json",
+    "./*": "./*"
+  }
+}

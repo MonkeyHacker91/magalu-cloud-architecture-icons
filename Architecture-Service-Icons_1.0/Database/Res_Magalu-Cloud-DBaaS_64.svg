@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+  <title>DBaaS</title>
+  <rect width="64" height="64" rx="12" fill="#3B48CC"/>
+  <g>
+    
+    <ellipse cx="32" cy="16" rx="15" ry="6" fill="#fff"/>
+    <path d="M17 16v10c0 3.3 6.7 6 15 6s15-2.7 15-6V16" fill="#fff" opacity=".92"/>
+    <path d="M17 26v10c0 3.3 6.7 6 15 6s15-2.7 15-6V26" fill="#fff" opacity=".78"/>
+    <path d="M25 30h14" stroke="#3B48CC" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+    
+  </g>
+</svg>

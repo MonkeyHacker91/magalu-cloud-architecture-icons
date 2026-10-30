@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img">
+  <title>SSH Key</title>
+  <rect width="64" height="64" rx="12" fill="#DD344C"/>
+  <g>
+    
+    <circle cx="23" cy="34" r="11" fill="#fff"/>
+    <circle cx="23" cy="34" r="3.8" fill="#DD344C"/>
+    <path d="M32 28.5L50 12" stroke="#fff" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+    <path d="M43 16l5 5M38 20l4 4" stroke="#fff" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+    
+  </g>
+</svg>

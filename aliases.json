@@ -1,0 +1,20 @@
+{
+  "MgcVm": "Res_Magalu-Cloud-Virtual-Machine",
+  "MgcKubernetes": "Res_Magalu-Cloud-Kubernetes",
+  "MgcRegistry": "Res_Magalu-Cloud-Container-Registry",
+  "MgcVpc": "Res_Magalu-Cloud-VPC",
+  "MgcSubnet": "Res_Magalu-Cloud-Subnet",
+  "MgcLoadBalancer": "Res_Magalu-Cloud-Load-Balancer",
+  "MgcPublicIp": "Res_Magalu-Cloud-Public-IP",
+  "MgcNatGateway": "Res_Magalu-Cloud-NAT-Gateway",
+  "MgcBlockStorage": "Res_Magalu-Cloud-Block-Storage",
+  "MgcObjectStorage": "Res_Magalu-Cloud-Object-Storage",
+  "MgcDatabase": "Res_Magalu-Cloud-DBaaS",
+  "MgcDatabaseReplica": "Res_Magalu-Cloud-DBaaS-Replica",
+  "MgcSecurityGroup": "Res_Magalu-Cloud-Security-Group",
+  "MgcSshKey": "Res_Magalu-Cloud-SSH-Key",
+  "MgcAiHub": "Res_Magalu-Cloud-AI-Hub",
+  "MgcAgentic": "Res_Magalu-Cloud-Agentic-Commerce",
+  "MgcAccelerate": "Res_Magalu-Cloud-Accelerate",
+  "MgcLogo": "Res_Magalu-Cloud-Logo-Mark"
+}

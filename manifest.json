@@ -1,0 +1,240 @@
+{
+  "name": "Magalu Cloud Architecture Icons",
+  "version": "1.0.0",
+  "description": "Official-style architecture diagram icons for Magalu Cloud (MGC), inspired by AWS Architecture Icons.",
+  "license": "MIT",
+  "brand": {
+    "primary": "#0086FF",
+    "categories": {
+      "compute": "#0086FF",
+      "containers": "#2A67FB",
+      "network": "#8C4FFF",
+      "storage": "#FF6A00",
+      "object": "#1A8754",
+      "database": "#3B48CC",
+      "security": "#DD344C",
+      "ai": "#D91CAC",
+      "general": "#525252",
+      "registry": "#8B5CFF"
+    }
+  },
+  "icons": [
+    {
+      "id": "Res_Magalu-Cloud-Virtual-Machine",
+      "category": "Compute",
+      "color": "#0086FF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Compute/Res_Magalu-Cloud-Virtual-Machine_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Compute/Res_Magalu-Cloud-Virtual-Machine_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Virtual-Machine.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Kubernetes",
+      "category": "Containers",
+      "color": "#2A67FB",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Containers/Res_Magalu-Cloud-Kubernetes_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Containers/Res_Magalu-Cloud-Kubernetes_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Kubernetes.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Container-Registry",
+      "category": "Containers",
+      "color": "#8B5CFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Containers/Res_Magalu-Cloud-Container-Registry_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Containers/Res_Magalu-Cloud-Container-Registry_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Container-Registry.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-VPC",
+      "category": "Networking-Content-Delivery",
+      "color": "#8C4FFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-VPC_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-VPC_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-VPC.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Subnet",
+      "category": "Networking-Content-Delivery",
+      "color": "#8C4FFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Subnet_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Subnet_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Subnet.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Load-Balancer",
+      "category": "Networking-Content-Delivery",
+      "color": "#8C4FFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Load-Balancer_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Load-Balancer_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Load-Balancer.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Public-IP",
+      "category": "Networking-Content-Delivery",
+      "color": "#8C4FFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Public-IP_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-Public-IP_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Public-IP.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-NAT-Gateway",
+      "category": "Networking-Content-Delivery",
+      "color": "#8C4FFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-NAT-Gateway_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Networking-Content-Delivery/Res_Magalu-Cloud-NAT-Gateway_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-NAT-Gateway.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Block-Storage",
+      "category": "Storage",
+      "color": "#FF6A00",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Storage/Res_Magalu-Cloud-Block-Storage_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Storage/Res_Magalu-Cloud-Block-Storage_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Block-Storage.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Object-Storage",
+      "category": "Storage",
+      "color": "#1A8754",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Storage/Res_Magalu-Cloud-Object-Storage_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Storage/Res_Magalu-Cloud-Object-Storage_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Object-Storage.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-DBaaS",
+      "category": "Database",
+      "color": "#3B48CC",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Database/Res_Magalu-Cloud-DBaaS_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Database/Res_Magalu-Cloud-DBaaS_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-DBaaS.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-DBaaS-Replica",
+      "category": "Database",
+      "color": "#3B48CC",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Database/Res_Magalu-Cloud-DBaaS-Replica_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Database/Res_Magalu-Cloud-DBaaS-Replica_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-DBaaS-Replica.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Security-Group",
+      "category": "Security-Identity-Compliance",
+      "color": "#DD344C",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Security-Identity-Compliance/Res_Magalu-Cloud-Security-Group_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Security-Identity-Compliance/Res_Magalu-Cloud-Security-Group_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Security-Group.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-SSH-Key",
+      "category": "Security-Identity-Compliance",
+      "color": "#DD344C",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Security-Identity-Compliance/Res_Magalu-Cloud-SSH-Key_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Security-Identity-Compliance/Res_Magalu-Cloud-SSH-Key_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-SSH-Key.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-AI-Hub",
+      "category": "Artificial-Intelligence",
+      "color": "#D91CAC",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Artificial-Intelligence/Res_Magalu-Cloud-AI-Hub_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Artificial-Intelligence/Res_Magalu-Cloud-AI-Hub_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-AI-Hub.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Agentic-Commerce",
+      "category": "Artificial-Intelligence",
+      "color": "#8B5CFF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/Artificial-Intelligence/Res_Magalu-Cloud-Agentic-Commerce_64.svg",
+        "48": "Architecture-Service-Icons_1.0/Artificial-Intelligence/Res_Magalu-Cloud-Agentic-Commerce_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Agentic-Commerce.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Accelerate",
+      "category": "General-Icons",
+      "color": "#FF6A00",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/General-Icons/Res_Magalu-Cloud-Accelerate_64.svg",
+        "48": "Architecture-Service-Icons_1.0/General-Icons/Res_Magalu-Cloud-Accelerate_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Accelerate.svg"
+      }
+    },
+    {
+      "id": "Res_Magalu-Cloud-Logo-Mark",
+      "category": "General-Icons",
+      "color": "#0086FF",
+      "files": {
+        "64": "Architecture-Service-Icons_1.0/General-Icons/Res_Magalu-Cloud-Logo-Mark_64.svg",
+        "48": "Architecture-Service-Icons_1.0/General-Icons/Res_Magalu-Cloud-Logo-Mark_48.svg",
+        "flat": "svg/Res_Magalu-Cloud-Logo-Mark.svg"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "Arch-Category_Compute",
+      "color": "#0086FF",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Compute.svg"
+    },
+    {
+      "id": "Arch-Category_Containers",
+      "color": "#2A67FB",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Containers.svg"
+    },
+    {
+      "id": "Arch-Category_Networking",
+      "color": "#8C4FFF",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Networking.svg"
+    },
+    {
+      "id": "Arch-Category_Storage",
+      "color": "#FF6A00",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Storage.svg"
+    },
+    {
+      "id": "Arch-Category_Database",
+      "color": "#3B48CC",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Database.svg"
+    },
+    {
+      "id": "Arch-Category_Security-Identity",
+      "color": "#DD344C",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Security-Identity.svg"
+    },
+    {
+      "id": "Arch-Category_Artificial-Intelligence",
+      "color": "#D91CAC",
+      "file": "Architecture-Category-Icons_1.0/Arch-Category_Artificial-Intelligence.svg"
+    }
+  ]
+}

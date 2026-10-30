@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+  <title>Security Group</title>
+  <rect width="64" height="64" rx="12" fill="#DD344C"/>
+  <g>
+    
+    <path d="M32 10l18 7.5v12c0 10-7 17.2-18 20.8C21 46.7 14 39.5 14 29.5v-12L32 10z" fill="#fff"/>
+    <path d="M23 31l5.5 5.5 11-11.5" stroke="#DD344C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    
+  </g>
+</svg>

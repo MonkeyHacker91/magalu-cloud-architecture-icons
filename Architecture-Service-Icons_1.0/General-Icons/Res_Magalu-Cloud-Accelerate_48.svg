@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img">
+  <title>Accelerate</title>
+  <rect width="64" height="64" rx="12" fill="#FF6A00"/>
+  <g>
+    
+    <path d="M36 10L16 34h12l-4 20 24-28H36L36 10z" fill="#fff"/>
+    
+  </g>
+</svg>
